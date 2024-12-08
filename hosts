@@ -1,2 +1,3 @@
 [webservers]
-192.168.1.150 ansible_ssh_user=lab ansible_ssh_pass=changeme
+44.203.132.207 ansible_user=ubuntu ansible_ssh_private_key_file=/var/lib/jenkins/.ssh/id_rsa
+
